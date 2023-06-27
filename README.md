@@ -4,10 +4,10 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation? My motivation is learning HTML and CSS and getting a good homework grade.
-- Why did you build this project? Building this project helps to better understand how to work with both HTML and CSS
-- What problem does it solve? Creating cleaner code.
-- What did you learn? I learned how to find and link code with images on a website. I learned how to consolidate code that takes up additional lines.
+- What was your motivation? My motivation is learning to create a portfolio about me and getting a good homework grade.
+- Why did you build this project? Building this project helps to better understand how create a portfolio
+- What problem does it solve? It helps to practice.
+- What did you learn? I learned how to create a portfolio page and manipulate images, colors and text on that page.
 
 ## Table of Contents (Optional)
 
@@ -24,7 +24,7 @@ N/A
 
 ## Usage
 
-Here is the link: https://felipesierra10.github.io/challenge1-code-refactoring/
+Here is the link: https://github.com/felipesierra10/Challenge-2-Portfolio
 
 ## Credits
 
