@@ -1,7 +1,7 @@
 header {
     display: flex;
     flex-wrap: wrap;
-    border: 1px red solid;
+    border: 1px rgb(0, 191, 255) solid;
 }
 
 header h1 {
@@ -22,7 +22,7 @@ nav ul {
 
 figure {
     background-image: url(https://placehold.co/1024x870);
-    background-size: cover background-repeat: no-repeat;
+    background-size: cover background-repeat; no-repeat;
     height: 200px;
 }
 
@@ -61,12 +61,13 @@ img {
     bottom: 10%;
 }
 
-.section-container ul{
+.section-container ul {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     width: 100%;
 }
+
 #image1 {
     position: relative;
     margin-top: 20px;
