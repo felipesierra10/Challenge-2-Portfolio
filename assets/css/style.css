@@ -22,7 +22,8 @@ nav ul {
 
 figure {
     background-image: url(https://placehold.co/1024x870);
-    background-size: cover background-repeat; no-repeat;
+    background-size: cover background-repeat;
+    no-repeat;
     height: 200px;
 }
 
