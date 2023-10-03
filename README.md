@@ -39,8 +39,9 @@ Felipe Sierra
 
 
 ## Features
-https://github.com/JulioBermudez/FoodiePal
-https://github.com/kfitzGazz/SUPorSurf
+* https://github.com/JulioBermudez/FoodiePal
+
+* https://github.com/kfitzGazz/SUPorSurf
 
 Website
 
